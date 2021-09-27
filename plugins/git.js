@@ -11,14 +11,14 @@ Asena.addCommand({pattern: 'git', fromMe: false, desc: Lang.GL}, (async (message
     
     
    
-  r_text[0] = "https://www.linkpicture.com/q/20210926_202621_1.jpg";
+  r_text[0] = "https://ibb.co/M5CXDQh";
     
     
     var i = Math.floor(1*Math.random())
 
     var respoimage = await axios.get(`${r_text[i]}`, { responseType: 'arraybuffer' })
 
-    await message.sendMessage(Buffer(respoimage.data), MessageType.image, {quoted: message.data , mimetype: Mimetype.png, caption: `*Ajuser_v2*
+    await message.sendMessage(Buffer(respoimage.data), MessageType.image, {quoted: message.data , mimetype: Mimetype.png, caption: `*TOXIC MWON*
  
 
         *Github link        _https://github.com/aju001/Ajuser_v2_*
