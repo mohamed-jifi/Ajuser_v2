@@ -1,20 +1,20 @@
 <div align="center">
 
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lemon+milk&color=F70000&lines=Welcome+to+Ajuser_v2+WA+Bot...;Created+by+Aju...;This+is+a+Bgm+stickerbot...;With+more+features...)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lemon+milk&color=F70000&lines=Welcome+to+Toxic-Mwon+WA+Bot...;Created+by+MDJIFI....;This+is+a+Bgm+stickerbot...;With+more+features...)](https://git.io/typing-svg)
 
 
 <div align="center">
-  <a href="https://ibb.co/4wyvT9j"><img src="https://i.ibb.co/cK5fFMN/logo.jpg""width="170" height="170"/>
+  <a href="https://www.linkpicture.com/q/20210922_220154.jpg"><img src="https://www.linkpicture.com/q/20210922_220154.jpg""width="170" height="170"/>
   <p align="center">
-<a href="#"><img title="Ajuser_v2" src="https://img.shields.io/badge/-Ajuser-red?&style=for-the-badge"></a>
+<a href="#"><img title="Ajuser_v2" src="https://img.shields.io/badge/-MDJIFI-red?&style=for-the-badge"></a>
 </p>
   </p>
 <p align="center">
-<a href="https://github.com/aju001"><img title="aju" src="https://img.shields.io/badge/author-aju001?color=blue&style=for-the-badge&logo=github"></a>
+<a href="https://github.com/MD-JIFI"><img title="MDJIFI" src="https://img.shields.io/badge/author-aju001?color=blue&style=for-the-badge&logo=github"></a>
 
 </div>
 <p align="center">
-Project created by <a href="https://github.com/aju001">aju</a> to make it public
+Project created by <a href="https://github.com/MD-JIFI">jifi</a> to make it public
     <br>
        | © |
         Reserved |
