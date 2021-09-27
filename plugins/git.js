@@ -11,7 +11,7 @@ Asena.addCommand({pattern: 'git', fromMe: false, desc: Lang.GL}, (async (message
     
     
    
-  r_text[0] = "https://i.ibb.co/cK5fFMN/logo.jpg";
+  r_text[0] = "https://www.linkpicture.com/q/20210926_202621_1.jpg";
     
     
     var i = Math.floor(1*Math.random())
@@ -21,19 +21,19 @@ Asena.addCommand({pattern: 'git', fromMe: false, desc: Lang.GL}, (async (message
     await message.sendMessage(Buffer(respoimage.data), MessageType.image, {quoted: message.data , mimetype: Mimetype.png, caption: `*Ajuser_v2*
  
 
-        *Github link        _https://github.com/aju001/Ajuser_v2_*
+        *Github link        _https://github.com/mohamed-jifi/Toxic-Mwon* 🦨
         
         
-       *Bot making video   _https://youtu.be/dm_kVZ0m2eY_*
+       *Instagram         _https://www.instagram.com/mr.covid_.19_* 📺
  
 
-       *Audio commads-1     _https://github.com/aju001/Ajuser_v2/tree/master/upload_*
+       *Audio commads-1     _https://github.com/mohamed-jifi/Toxic-Mwon/tree/master/upload_* 🎧
  
  
-       *Audio commads-2     _https://github.com/aju001/Ajuser_v2/tree/master/uploads_*
+       *Audio commads-2     _https://github.com/mohamed-jifi/Toxic-Mwon/tree/master/uploads_* 🎧🎶
   
   
-      *Sticker commads      _https://github.com/aju001/Ajuser_v2/tree/master/stickers_*
+      *Sticker commads      _https://github.com/mohamed-jifi/Toxic-Mwon/tree/master/stickers_* 🦋🎋
 `}) 
 
-})); 
+}));
