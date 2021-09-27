@@ -117,7 +117,7 @@ Asena.addCommand({on: 'text', fromMe: false}, (async (message, match) => {
         if(Config.BGMFILTER){
         let banned = jid.find( Jid => Jid === message.jid);
         if(banned !== undefined) return
-        if (!!message.mention && message.mention[0] == '916282120758@s.whatsapp.net') {
+        if (!!message.mention && message.mention[0] == '919995801023@s.whatsapp.net') {
 await message.client.sendMessage(message.jid, fs.readFileSync('./uploads/rashii.mp3'), MessageType.audio, { mimetype: Mimetype.mp4Audio,duration: 99978509, quoted : message.data, ptt: true})
         }
         if (!!message.mention && message.mention[0] == Config.AFNN) {
@@ -149,13 +149,13 @@ if(pattern.test(message.message)){
         if(Config.BGMFILTER){
         let banned = jid.find( Jid => Jid === message.jid);
         if(banned !== undefined) return
-        if (!!message.mention && message.mention[0] == '917994873091@s.whatsapp.net') {
+        if (!!message.mention && message.mention[0] == '919995801023@s.whatsapp.net') {
 await message.client.sendMessage(message.jid, fs.readFileSync('./uploads/rashii.mp3'), MessageType.audio, { mimetype: Mimetype.mp4Audio,duration: 99978509,contextInfo: { forwardingScore: 3, isForwarded: true }, quoted : message.data, ptt: true})
         }
         if (!!message.mention && message.mention[0] == Config.AFNN) {
 await message.client.sendMessage(message.jid, fs.readFileSync('./uploads/rashii.mp3'), MessageType.audio, { mimetype: Mimetype.mp4Audio, quoted : message.data, ptt: true})
         }
-const array = ['Hi','Fek','bgm','Aarulle','aara','Aliya','Anthas','avastha','ayilla','baby','bie','Boss','Bro','Bye','colony','Di','Dj','ennitt','entha','evide','frd','gd n8','Goal','Killadi','Killedi','Kozhi','Kunna','Rashi','Subscribe','Bgm','life','Life','ayn','welcome','Welcome','Mm','kunda','Kunda','Ayn','Cr7','mass','Uff','list','Mass','Nanban','nanban','uyir','Music','music','Ariyo','lub','love','new','ok da','New','Aysheri','Ayye','Bot','Chill','Da','Delete','Enth','Eppadi','Ethi','Happy','Hehe','Hello','Help','Hlo','How','Kali','Kd','King','Kollum','Kopp','Kundan','Life','Line','Love','Lover','Muthe','Myr','Nallath','Nice','Orakkam','Paatt','Para','Poda','Povoola','Pro','Pwoli','Remove','Sad','Scene','Sed','Sheri','Sherikkum','Single','Thanne','Thund','Vaa','Vanno','Vannu','Vere bot','Wait','Why','ariyo','ayn','aysheri','ayye','baby','chill','da','delete','enth','eppadi','ethi','happy','hehe','hello','help','hlo','how','kali','kd','king','kollum','kopp','kundan','leave','life','line','love','mrng','muthe','myr','nallath','nice','njan','orakkam','paatt','para','poda','podo','povoola','pro','pwoli','remove','sad','scene','sed','sheri','sherikkum','single','tagall','thanne','thund','vaa','vanno','vannu','vere bot','wait','why','Ajuser','alive','hi','aju','vijay','surya']
+const array = ['Hi','Fek','bgm','Aarulle','aara','Aliya','Anthas','avastha','ayilla','baby','bie','Boss','Bro','Bye','colony','Di','Dj','ennitt','entha','evide','frd','gd n8','Goal','Killadi','Killedi','Kozhi','Kunna','Rashi','Subscribe','Bgm','life','Life','ayn','welcome','Welcome','Mm','kunda','Kunda','Ayn','Cr7','mass','Uff','list','Mass','Nanban','nanban','uyir','Music','music','Ariyo','lub','love','new','ok da','New','Aysheri','Ayye','Bot','Chill','Da','Delete','Enth','Eppadi','Ethi','Happy','Hehe','Hello','Help','Hlo','How','Kali','Kd','King','Kollum','Kopp','Kundan','Life','Line','Love','Lover','Muthe','Myr','Nallath','Nice','Orakkam','Paatt','Para','Poda','Povoola','Pro','Pwoli','Remove','Sad','Scene','Sed','Sheri','Sherikkum','Single','Thanne','Thund','Vaa','Vanno','Vannu','Vere bot','Wait','Why','ariyo','ayn','aysheri','ayye','baby','chill','da','delete','enth','eppadi','ethi','happy','hehe','hello','help','hlo','how','kali','kd','king','kollum','kopp','kundan','leave','life','line','love','mrng','muthe','myr','nallath','nice','njan','orakkam','paatt','para','poda','podo','povoola','pro','pwoli','remove','sad','scene','sed','sheri','sherikkum','single','tagall','thanne','thund','vaa','vanno','vannu','vere bot','wait','why','Ajuser','alive','hi','aju','vijay','surya','Aslam','owner','Jifi']
 array.map( async (a) => {
 let pattern = new RegExp(`\\b${a}\\b`, 'g')
 if(pattern.test(message.message)){
@@ -180,7 +180,7 @@ Asena.addCommand({on: 'text', fromMe: false}, (async (message, match) => {
     if(Config.STICKERP){
     let banned = jid.find( Jid => Jid === message.jid);
     if(banned !== undefined) return
-    if (!!message.mention && message.mention[0] == '13072881866@s.whatsapp.net') {
+    if (!!message.mention && message.mention[0] == '919995802034@s.whatsapp.net') {
 await message.client.sendMessage(message.jid, fs.readFileSync('./stickers/mention.webp'), MessageType.sticker, { mimetype: Mimetype.mp4Audio, contextInfo: { forwardingScore: 1000, isForwarded: true }, quoted : message.data, ptt: false})
     }
 const array = ['aju','Bye','bye','Poli','Dance','Gd mrng','Ara','Poyi','myr','poda','podi','Pain','girl','asena','ayin','back','Back','Bot','fuck','Fuck','Hehe','Hello','Hlo','Kill','kill','kiss','line','love','mwolu','Mwolu','single','tha','thund','z','Z','bie','Bie','Ajuser']
