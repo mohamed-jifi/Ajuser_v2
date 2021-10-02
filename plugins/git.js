@@ -21,19 +21,19 @@ Asena.addCommand({pattern: 'git', fromMe: false, desc: Lang.GL}, (async (message
     await message.sendMessage(Buffer(respoimage.data), MessageType.image, {quoted: message.data , mimetype: Mimetype.png, caption: `*_TOXIC MWON_*
  
 
-        *Github link        _https://github.com/mohamed-jifi/Toxic-Mwon* 🦨
+        *Github link        _https://github.com/mohamed-jifi/Toxic-Mwon*
         
         
-       *Instagram         _https://www.instagram.com/mr.covid_.19_* 📺
+       *Instagram         _https://www.instagram.com/mr.covid_.19_*
  
 
-       *Audio commads-1     _https://github.com/mohamed-jifi/Toxic-Mwon/tree/master/upload_* 🎧
+       *Audio commads-1     _https://github.com/mohamed-jifi/Toxic-Mwon/tree/master/upload_*
  
  
-       *Audio commads-2     _https://github.com/mohamed-jifi/Toxic-Mwon/tree/master/uploads_* 🎧🎶
+       *Audio commads-2     _https://github.com/mohamed-jifi/Toxic-Mwon/tree/master/uploads_*
   
   
-      *Sticker commads      _https://github.com/mohamed-jifi/Toxic-Mwon/tree/master/stickers_* 🦋🎋
+      *Sticker commads      _https://github.com/mohamed-jifi/Toxic-Mwon/tree/master/stickers_*
 `}) 
 
 }));
